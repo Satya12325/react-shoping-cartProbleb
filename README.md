@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+<h1>React Shoping cart Problem</h1>
+<Img src="https://github.com/Satya12325/react-shoping-cartProbleb/blob/master/screencapture-localhost-3001-2022-01-09-01_23_45.png" />
+
+<img src="https://github.com/Satya12325/react-shoping-cartProbleb/blob/master/screencapture-localhost-3001-cart-2022-01-09-01_23_28.png"/>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
